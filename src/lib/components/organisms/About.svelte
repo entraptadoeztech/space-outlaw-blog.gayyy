@@ -17,7 +17,7 @@
 	<div class="image">
 <!-- Bro image loadddddd plsssssssss-->
 		<Image
-			src="https://raw.githubusercontent.com/entraptadoeztech/space-outlaw-blog.gayyy/refs/heads/main/src/lib/components/organisms/IMG_1298.jpeg"
+			src="/images/IMG_1298.jpeg"
 			alt="Sample for the static template"
 		/>
 	</div>
