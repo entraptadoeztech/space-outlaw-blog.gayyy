@@ -45,7 +45,7 @@
 }
 
 @mixin dark-theme {
-	@include define-color('primary', violet);
+	@include define-color('primary', blueviolet);
 	@include define-color('primary-shade', #4612A1);	
 	@include define-color('primary-tint', #231934);
 
