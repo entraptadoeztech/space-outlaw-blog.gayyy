@@ -16,7 +16,7 @@
 	</div>
 	<div class="image">
 		<Image
-			src="IMG_1298.jpeg"
+			src="organisms/IMG_1298.jpeg"
 			alt="Sample for the static template"
 		/>
 	</div>
