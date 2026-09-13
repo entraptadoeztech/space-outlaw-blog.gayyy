@@ -1,6 +1,7 @@
 <script>
 	import SparklingHighlight from '$lib/components/molecules/SparklingHighlight.svelte';
-	import Image from '../atoms/Image.svelte';
+	import Socials from '$lib/components/molecules/Socials.svelte';
+    import Image from '../atoms/Image.svelte';
 </script>
 
 <section id="about">
@@ -8,10 +9,6 @@
 		<p>
 			This is the space outlaw's blog
 		</p>
-		<div class="socials">
-			<span>Socials:</span>
-			<Socials />
-		</div>
 	</div>
 	<div class="image">
 <!-- Bro image loadddddd plsssssssss-->
@@ -20,6 +17,10 @@
 			alt="Sample for the static template"
 		/>
 	</div>
+<div class="socials">
+			<span>Socials:</span>
+			<Socials />
+		</div>
 </section>
 
 <style lang="scss">
