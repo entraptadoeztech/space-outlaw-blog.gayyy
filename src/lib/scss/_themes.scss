@@ -1,7 +1,7 @@
 @import '$lib/scss/_mixins.scss';
 
 @mixin base-theme {
-	@include define-color('primary', #6E29E7);
+	@include define-color('primary', violet);
 	@include define-color('primary-shade', #b28cf2);	
 	@include define-color('primary-tint', #f9f6fe);
 
