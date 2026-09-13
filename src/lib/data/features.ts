@@ -2,11 +2,11 @@ import type { Feature } from "$lib/utils/types";
 
 export default [ 
   {
-    name: 'Markdown Support',
+    name: 'Entraptadoeztech',
     description:
-      'Blog posts are written in Markdown, a simple and nearly-universal format. This means you can bring over your posts from other platforms, and easily export to another if you want to.',
+      'Hello! Im entraptadoeztech the leader of The Space outlaws.',
     image: 'images/features/markdown.jpg',
-    tags: [{ label: 'Powered by MDsveX' }]
+    tags: [{ label: 'leader :0' }]
   }, 
   {
     name: 'Themeable',
