@@ -2,17 +2,17 @@
 
 @mixin base-theme {
 	@include define-color('primary', violet);
-	@include define-color('primary-shade', #b28cf2);	
+	@include define-color('primary-shade', blueviolet);	
 	@include define-color('primary-tint', #f9f6fe);
 
 	@include define-color('secondary', blueviolet);
-	@include define-color('secondary-shade', #ffa280);
+	@include define-color('secondary-shade', violet);
 	@include define-color('secondary-tint', #fff8f5);
 
 	@include define-color('yellow', #ffd400);
 
 	@include define-color('text', violet);
-	@include define-color('text-shade', #5d5f65);
+	@include define-color('text-shade', blueviolet);
 	@include define-color('text-inverse', #ffffff);
 	@include define-color('text-inverse-shade', #9eb4b5);
 
