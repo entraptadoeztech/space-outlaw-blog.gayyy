@@ -18,7 +18,7 @@
 		/>
 	</div>
 <div class="socials">
-			<span>Socials:</span>
+			<span>Our Socials:</span>
 			<Socials />
 		</div>
 </section>
