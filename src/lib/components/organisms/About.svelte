@@ -6,10 +6,6 @@
 
 <section id="about">
 	<div class="info">
-		<h2>
-			This is a catchy headline that
-			<SparklingHighlight color="secondary">sparkles!</SparklingHighlight>
-		</h2>
 		<p>
 			This is the space outlaw's blog
 		</p>
@@ -20,7 +16,7 @@
 	</div>
 	<div class="image">
 		<Image
-			src="static/images/IMG_1298.jpeg"
+			src="/static/images/IMG_1298.jpeg"
 			alt="Sample for the static template"
 		/>
 	</div>
