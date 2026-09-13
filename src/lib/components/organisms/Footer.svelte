@@ -11,17 +11,10 @@
 	</div>
 	<div class="content">
 		<div class="copyright">
-			This template was built by <a
-				href="https://fantinel.dev?utm_source=site-template"
-				target="_blank"
-				rel="noopener noreferrer">Matheus Fantinel</a
-			>.
+		The Space Outlaw's blog
 		</div>
 		<div class="credits">
-			Powered by <a href="https://kit.svelte.dev/" target="_blank" rel="noopener noreferrer"
-				>SvelteKit</a
-			>. Icons by
-			<a href="https://iconoir.com/" target="_blank" rel="noopener noreferrer">Iconoir</a>.
+			Modified by <a href = "https://github.com/entraptadoeztech">GitHub</a>
 		</div>
 		<div class="socials">
 			<Socials />
