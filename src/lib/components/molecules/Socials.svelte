@@ -25,10 +25,10 @@
 		<MastodonIcon />
 	</a>
 	<a
-		href="#"
+		href="https://github.com/The-Space-Outlaws"
 		target="_blank"
 		rel="noopener noreferrer"
-		title="See my GitHub profile"
+		title="See our GitHub org!"
 	>
 		<GitHubIcon />
 	</a>
