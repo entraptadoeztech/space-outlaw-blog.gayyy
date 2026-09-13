@@ -18,7 +18,8 @@
 			><tspan x="275.57227" y="292.17088" id="tspan1319"
 				><tspan
 					style="font-size:106.667px;font-family:YoungSerif;"
-					id="tspan1317">Space Outlawz</tspan
+					id="tspan1317"><a class="logo" href="/images/IMG_1279.webp" aria-label="Site logo">
+			<Logo /></tspan
 				></tspan
 			></text
 		>
