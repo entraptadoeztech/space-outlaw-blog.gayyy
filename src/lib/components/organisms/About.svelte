@@ -11,8 +11,7 @@
 			<SparklingHighlight color="secondary">sparkles!</SparklingHighlight>
 		</h2>
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum velit voluptatibus commodi
-			autem provident quam labore, libero beatae praesentium voluptate?
+			This is the space outlaw's blog
 		</p>
 		<div class="socials">
 			<span>Socials:</span>
@@ -21,7 +20,7 @@
 	</div>
 	<div class="image">
 		<Image
-			src="/images/sample-image.png"
+			src="static/images/IMG_1298.jpeg"
 			alt="Sample for the static template"
 		/>
 	</div>
