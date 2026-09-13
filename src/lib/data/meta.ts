@@ -16,6 +16,6 @@ export const keywords = [
 export const description =
 	"A blog from The Space Outlaws";
 
-export const title = 'Space outlawz blog';
+export const title = 'sveltekit-static-blog-template';
 
 export const image = `${siteBaseUrl}static/images/IMG_1298.jpeg`;
