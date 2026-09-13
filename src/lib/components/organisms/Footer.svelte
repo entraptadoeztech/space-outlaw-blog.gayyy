@@ -14,7 +14,7 @@
 		The Space Outlaw's blog
 		</div>
 		<div class="credits">
-			Modified by <a href = "https://github.com/entraptadoeztech">GitHub</a>
+			Modified by <a href = "https://github.com/entraptadoeztech">Entraptadoeztech</a>
 		</div>
 		<div class="socials">
 			<Socials />
