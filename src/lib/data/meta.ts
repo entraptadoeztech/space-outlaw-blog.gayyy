@@ -14,8 +14,8 @@ export const keywords = [
 ];
 
 export const description =
-	"A light, neat, and easy-to-use SvelteKit template for your next website.";
+	"A blog from The Space Outlaws";
 
-export const title = 'SvelteKit Static Blog Template';
+export const title = 'Space outlawz blog';
 
 export const image = `${siteBaseUrl}/images/site-preview.png`;
