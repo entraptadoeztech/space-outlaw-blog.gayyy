@@ -18,8 +18,7 @@
 			><tspan x="275.57227" y="292.17088" id="tspan1319"
 				><tspan
 					style="font-size:106.667px;font-family:YoungSerif;"
-					id="tspan1317">The Space Outlaws 
-	<Image
+					id="tspan1317"><Image
 			src="/images/IMG_1298.jpeg"
 			alt="Sample for the static template"
 		/>
