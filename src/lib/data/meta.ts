@@ -18,4 +18,4 @@ export const description =
 
 export const title = 'Space outlawz blog';
 
-export const image = `${siteBaseUrl}/images/static/images/IMG_1298.jpeg`;
+export const image = `${siteBaseUrl}static/images/IMG_1298.jpeg`;
