@@ -45,7 +45,7 @@
 }
 
 @mixin dark-theme {
-	@include define-color('primary', pink);
+	@include define-color('primary', violet);
 	@include define-color('primary-shade', #4612A1);	
 	@include define-color('primary-tint', #231934);
 
@@ -55,7 +55,7 @@
 
 	@include define-color('yellow', #ffd400);
 
-	@include define-color('text', violet);
+	@include define-color('text', hotpink);
 	@include define-color('text-shade', #9eb4b5);
 	@include define-color('text-inverse', #1c1e26);
 	@include define-color('text-inverse-shade', #5d5f65);
