@@ -5,7 +5,7 @@ export default [
     name: 'Entraptadoeztech',
     description:
       'Hello! Im entraptadoeztech the leader of The Space outlaws.',
-    image: 'images/features/markdown.jpg',
+    image: 'IMG_1296.jpeg',
     tags: [{ label: 'leader :0' }]
   }, 
   {
