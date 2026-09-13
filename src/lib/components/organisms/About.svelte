@@ -7,7 +7,7 @@
 <section id="about">
 	<div class="info">
 		<p>
-			This is the space outlaw's blog
+			This is The Space Outlaw's blog
 		</p>
 	</div>
 	<div class="image">
