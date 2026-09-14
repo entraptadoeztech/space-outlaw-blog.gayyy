@@ -15,7 +15,7 @@
     "story:preview": "histoire preview",
     "optimize-images": "image-transmutation --run --sourceFolder './build/images' --targetFolder './build/images' --inputFormats 'jpg' --inputFormats 'jpeg' --inputFormats 'png' --outputFormats 'png' --outputFormats 'webp' --outputFormats 'avif'",
 "optimize-images2": "image-transmutation --run --sourceFolder './.svelte-kit/output/client/images' --targetFolder './.svelte-kit/output/client/images' --inputFormats 'jpg' --inputFormats 'jpeg' --inputFormats 'png' --outputFormats 'png' --outputFormats 'webp' --outputFormats 'avif'",
-"postbuild": "npm run optimize-images && npm run optimize-images2 && svelte-sitemap --domain https://virtaavaa.netlify.app",
+"postbuild": "npm run optimize-images && npm run optimize-images2 && svelte-sitemap --domain https://symphonious-zuccutto-c5528c.netlify.app/",
     "vercel-sitemap": "svelte-sitemap --out-dir .vercel/output/static --domain https://sveltekit-static-blog-template.vercel.app/",
     "vercel-optimize-images": "image-transmutation --run --sourceFolder '.vercel/output/static/images' --targetFolder '.vercel/output/static/images' --inputFormats 'jpg' --inputFormats 'jpeg' --inputFormats 'png' --outputFormats 'png' --outputFormats 'webp' --outputFormats 'avif'",
     "vercel-build": "npm run build && npm run vercel-sitemap && npm run vercel-optimize-images"
