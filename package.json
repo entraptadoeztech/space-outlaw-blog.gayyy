@@ -14,7 +14,8 @@
     "story:build": "histoire build",
     "story:preview": "histoire preview",
     "optimize-images": "image-transmutation --run --sourceFolder './static/images' --targetFolder './build/images' --inputFormats 'jpg' --inputFormats 'jpeg' --inputFormats 'png' --outputFormats 'png'",
-    "postbuild": "npm run optimize-images && svelte-sitemap",
+    "postbuild": "npm run optimize-images && npm run generate-config && svelte-sitemap",
+    "generate-config": "node scripts/generate-config.js",
     "vercel-sitemap": "svelte-sitemap --out-dir .vercel/output/static",
     "vercel-optimize-images": "image-transmutation --run --sourceFolder '.vercel/output/static/images' --targetFolder '.vercel/output/static/images' --inputFormats 'jpg' --inputFormats 'jpeg' --inputFormats 'png' --outputFormats 'png'",
     "vercel-build": "npm run build && npm run vercel-sitemap && npm run vercel-optimize-images"
