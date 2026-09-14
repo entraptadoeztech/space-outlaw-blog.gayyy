@@ -61,7 +61,7 @@ if (!domain) {
 if (!/^[a-zA-Z][a-zA-Z0-9+.-]*:\/\//.test(domain)) {
   domain = `https://${domain.replace(/^\/+/, '')}`;
 }
-domain = domain.replace(/\/+$, '');
+domain = domain.replace(/\/+$/, '');
 
 const sitemapCmd = `svelte-sitemap --domain ${domain}/ --out-dir ${outDir}`;
 
